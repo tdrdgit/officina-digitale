@@ -6,7 +6,6 @@ La colonna **serve davvero** è la sola che conta quando si assegnano i permessi
 
 | Persona | Ruolo aziendale | Cosa serve davvero |
 |---|---|---|
-| Giovanni | Fondatore | Governo dell'azienda: decide chi entra, chi esce, quali regole valgono. Non scrive codice |
 | Marta | Responsabile tecnica | Governo tecnico: approva le modifiche delicate, configura le protezioni |
 | Luca | Sviluppatore | Scrivere e proporre modifiche al prodotto |
 | Sara | Sviluppatrice | Scrivere e proporre modifiche al prodotto |
@@ -26,5 +25,5 @@ Servono a decidere chi deve approvare cosa. Il percorso le userà nella lezione 
 | Calcolo fatture | `src/fatture.js`, `test/` | Marta |
 | Anagrafica clienti | `src/clienti.js` | Luca |
 | Listino | `listino.csv` | Paolo |
-| Documenti aziendali | `docs/`, `TEAM.md` | Giovanni |
+| Documenti aziendali | `docs/`, `TEAM.md` | tdrd |
 | Sicurezza | `SECURITY.md`, `.github/workflows/` | Nina |
