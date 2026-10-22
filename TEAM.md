@@ -14,7 +14,7 @@ La colonna **serve davvero** è la sola che conta quando si assegnano i permessi
 | Nina | Consulente sicurezza | Vedere gli avvisi di sicurezza di tutti i progetti. Non modifica nulla |
 | Roberto | Amministrazione | Gestire l'abbonamento e le fatture di GitHub. Nessun accesso al codice |
 | Dario | Fornitore esterno | Lavorare su un solo progetto, per tre mesi, poi sparire |
-| tdrd | Founder | Governare accessi e regole: decide chi entra, con quali permessi e quali protezioni valgono. Non scrive codice |
+| tdrd | Direzione | Governare accessi e regole senza scrivere codice |
 
 ## Le zone del progetto
 
